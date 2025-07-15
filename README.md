@@ -75,6 +75,7 @@ To analyze and optimize Amazon product sales by understanding:
 
 * `Amazon Sales Data Dashboard.pbix`: Power BI file with complete data model and visuals
 * `Amazon Dashboard.png`: Snapshot image of the final dashboard layout
+* `Amazon.csv`: Dataset
 
 ---
 
